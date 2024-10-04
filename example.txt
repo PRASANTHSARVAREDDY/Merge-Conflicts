@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Hi-developer
-=======
 hii
 >>>>>>> origin/master
